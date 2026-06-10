@@ -1,6 +1,6 @@
-## OMG I IDK HOW TO MAKE A READ.ME IMAGE.
+## Never mess with the mafia boss and his gang / goons
 
-# Sobs...
+# I feel no pain,can you say the same? .
 
 ![Image-alt](https://github.com/RealMafioso/RealMafioso/blob/fcb2394ed0475232ff7869705fe24c6a7c5df39c/Screenshot%202026-06-05%20200415.png)
 
