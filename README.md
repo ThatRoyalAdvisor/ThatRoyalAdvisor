@@ -1,4 +1,4 @@
-## If your reading this, your all welcome to read my read.me 👀
+## If your reading this, your all welcome to read my read.me 
 
 # Might be " Sleeping, Drawing, Afk, Semi-afk or Watching."
 
@@ -21,7 +21,7 @@
 
   ![Image-alt](https://github.com/RealMafioso/RealMafioso/blob/e85d326bab58e4a13c01c99efeb2079d75c32aad/Screenshot%202026-06-10%20171649.png)
 
-   <img width="212" height="248" alt="Image" src="https://github.com/user-attachments/assets/462a448a-d0da-450a-a3d1-bbd23ecff4c5" /> <img width="168" height="216" alt="Image" src="https://github.com/user-attachments/assets/ccb8c67c-59d1-4e16-b532-f3f58b4039b1" />
+   <img width="212" height="248" alt="Image" src="https://github.com/user-attachments/assets/462a448a-d0da-450a-a3d1-bbd23ecff4c5" /> <img width="168" height="216" alt="Image" src="https://github.com/user-attachments/assets/ccb8c67c-59d1-4e16-b532-f3f58b4039b1" /> <img width="236" height="228" alt="Image" src="https://github.com/user-attachments/assets/eed02653-3243-4f2c-8165-68b29527c656" />
 
  
 
