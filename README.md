@@ -21,7 +21,7 @@
 
   ![Image-alt](https://github.com/RealMafioso/RealMafioso/blob/e85d326bab58e4a13c01c99efeb2079d75c32aad/Screenshot%202026-06-10%20171649.png)
 
-  !-[Image-alt](https://github.com/RealMafioso/RealMafioso/blob/ca3722254274af559b7f4c5fda9a1b7b5ec474ff/Screenshot%202026-06-12%20135338.png)
+  ![Image-alt](https://github.com/RealMafioso/RealMafioso/blob/ca3722254274af559b7f4c5fda9a1b7b5ec474ff/Screenshot%202026-06-12%20135338.png)
 
 
   
