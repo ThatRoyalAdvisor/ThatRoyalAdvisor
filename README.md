@@ -58,6 +58,7 @@
          <p>I do not like getting disturb of my rest by spam whispering. Whispering me when im sleeping its fine.</p>
          <p>If your willing to be my friend, you have to chat calmly.</p>
          <p>I do not like nonpatiences if they're willing to me to accept their friend requests.</p>
+         <p>Whisper me if u want to talk either be friends with me. I'll even ask if ur above 18+ or under 12 years old.</p>
   
 
    </div>
