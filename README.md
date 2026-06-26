@@ -99,7 +99,7 @@
    <p>Free to interact when im listening to musics.</p>
    <p>I usually like people cuddeling me either sitting with me. I really don't care if i sit alone.</p>
    <p>If your not feeling well, not in mood or upset. I might whisper / response you.</p>
-   <p>I should think before friend request you.</p>
+   <p>I do not waant to be friends with a Tut skins, toxic ships, etc., and more.</p>
 
 
 
@@ -110,6 +110,8 @@
   
    </div>
    </details>
+
+
 
 
    <summary><inst>Questions - Why i don't ship Spike with other canons and fanons?</inst></summary>
