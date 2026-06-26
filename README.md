@@ -112,7 +112,7 @@
 
 
 
-
+  <details>
    <summary><inst>Questions - Why i don't ship Spike with other canons and fanons?</inst></summary>
    <p>Shipping Spike with other canon and fanons may caused a  sex or heat shippers to appeared. Like shipping rarity x spike, etc, and more.</p>
    <p>I rather avoid sex or heat shippers whenever im afk or semi-afk.</p>
