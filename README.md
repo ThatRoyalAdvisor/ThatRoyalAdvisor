@@ -107,7 +107,24 @@
    </div>
    </details>
 
+  <details>
+   <summary><inst>⚠️Warning/Caution⚠️</inst></summary>
+   <p> Interacting / Disturbing / Interupting me its a extreme caution, I might bite you if YOU dot that.</p>
+   <p>Might think your cool and awesome.</p>
+   <p>I sleep peacefully, drawing peacefully, play peacefully and listen to music peacefully. But sometimes people might disturb either interupt me.</p>
+   <p>My brain might feel dizzy meaning i feel tired.</p>
+   <p>Don't copy either cover my Spike cosplay whenever im afk or semi-afk</p>
+   <p>Might be aggresive or get snap if you bully or roast random people sitting either cuddeling with me.</p>
+   <p>Feeling tired about my school works and stuffs.</p>
+   <p>If your trying to flex me with your peak skins when im active, i really don't care.</p>
+   <p>Don't be rude to random people sitting or cuddeling with me.</p>
+   <p>Be kind to my friends and random peoples.</p>
+   <p>I'll think of my mind if your cool, awesome, good or bad. </p>
 
+</div>
+ </details>
+
+ <br>
 
   <details>
    <summary><inst>Questions - Why i don't ship Spike with other canons and fanons?</inst></summary>
