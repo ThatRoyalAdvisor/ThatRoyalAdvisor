@@ -1,9 +1,8 @@
 
+<img width="224" height="123" alt="Image" src="https://github.com/user-attachments/assets/c2968f53-fa37-4064-9f3e-df6d3c008157" />
 
-<img width="219" height="294" alt="Image" src="https://github.com/user-attachments/assets/a496b40c-f73c-46fe-9e53-144af4f6a6f3" width="420" /> 
 
 
-## Don't u dare mess with me and my friends. 
 
 
 <br>
@@ -169,6 +168,38 @@
   <details>
   <summary><int>Music I like</int></summary>
   <p>Soda Pop, Golden, APT, Flowers, All I want for Christmas is You, Funk Do Bounce, Meme Funk, Beeper Funk, You've got a Friend in Me, Psycho Teddy, Sweet but Psycho, Symphony, Skellies, Double Life, Wavin' Flags, Nothing New, I don't wanna talk to You, Im So Sorry, Close up, Everyone is Dumb, Bloodpop, Rewrite of Stars, TAKE A REST, TAKE A RUN, Sleep Well, Money Green, What is Logical?, Not my Problem, E.T is a alien, 3.0.0.8, Trypophobia, Digital Hallucination, Ghost, Mi mi mi, Fairytale, Happy Face, Mary on a Cross, Life goes on, GRRRLS, Dancin, Darkside, Arcade, Her, Animals, Centuries, Die Young, Devil in Disguise, Skyfall, You can't Hide, Join us for a Bite, Wellerman, Eyes all on me, What about Me, Sprunki get funky, Traitor x Frozen, Snowman(sia), Best Friends, Look what You made me Do, This is Halloween, and Traitor. </p>
+
+
+
+ </div>
+   </details>
+
+
+
+ <br> 
+
+
+
+##Not Able To Read Your Message.
+<img width="220" height="227" alt="Image" src="https://github.com/user-attachments/assets/ce2041ac-2087-4e3f-a7d8-dca8c74778c7" />
+
+
+
+ </div>
+   </details>
+
+
+
+ <br> 
+
+
+
+ 
+
+
+
+
+
 
 
 
