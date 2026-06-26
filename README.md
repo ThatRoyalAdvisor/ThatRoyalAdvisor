@@ -18,7 +18,7 @@
  <details>
  <summary><ins>About Myself</ins></summary>
 
-<p>Hello, my name is Spike and my birthday is on 9 of November.</p>
+<p>Hello, my name is Spike and im 23 years old, my birthday is on 9 of November.</p>
 <p>Nicknames: Spike, Spine and Spire.</p>
 <p>I only speak English and Filipino -sometimes a little.</p>
 <p>A Nonshippers : ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
@@ -26,6 +26,8 @@
 <p>I sit with my friend name Twilight Sparkle.</p>
 <p>I usually like shipping Rairty and Spike but in game, I usually don't.</p>
 <p>Twilight is my friend, I always support her and I always got her back.</p>
+<p>I will block you if you start harassing my friends.</p>
+<p>I do not like seeing weird sus or freaky skins sitting or cuddeling with me when im afk or semi-afk.</p>
 
  </div>
  </details>
