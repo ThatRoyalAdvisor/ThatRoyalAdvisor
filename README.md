@@ -115,8 +115,7 @@
 <details>
  <summary><inst>Location</inst></summary>
  <div align="center">
-   <summary><inst>Location</inst></summary>
-   <p>Under Bakery, by the brick fence, at approximately the Bakery board, sitting with @ThatRoyalBeast.</p>
+   <p>Under Bakery, by the brick fence, at approximately the Bakery board, sitting with @ThatRoyalBeast. [In Safe Server #OG]</p>
    </div>
 </details>
 <br>
