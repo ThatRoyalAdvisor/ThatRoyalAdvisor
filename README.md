@@ -22,7 +22,7 @@
 
    <summary><ins>About Myself</ins></summary>
   
-<p align="center">
+<div align="center">
  <p>Hello, my name is Spike, and I'm 23 years old; my birthday is on the 9th of November.</p>
  <p>Nicknames: Spike, Spine and Spire.</p>
  <p>I only speak English and Filipino—sometimes a little.</p>
@@ -40,7 +40,7 @@
   <details>
    <summary><ins>About Pony Town</ins></summary>
      
-<p align="center">
+<div align="center">
  <p>I allow cuddles and piles when I'm with people. Also, do not cover or copy my Spike cosplay; I will not allow that.</p>
  <p>I may be AFK or semi-AFK, but I may be online every year, well, sometimes.</p>
  <p>Free to W2I, there's a chance that I might see the messages.</p>
@@ -59,7 +59,7 @@
   <details>
  <summary><ins>⚠️Do not Befriend with me.⚠️</ins></summary>
      
-<p align="center">     
+<div align="center">   
  <p>Under 12 years old, I will not accept being friends with anyone under 12 years old.</p>
  <p>Above 18+ or 13+, I will accept it.</p>
  <p>I avoid being friend-requested by people under 12 years old.</p>
@@ -78,7 +78,7 @@
    
   <summary><inst>How to be friends with me?</inst></summary>
   
- <p align="center"> 
+<div align="center">
    <p>Well, if you want to be friends with me, you have to talk to me or whisper a lot.</p>
    <p>I avoid talking / whispering if under 12 years old.</p>
    <p>I like to talk / whisper a lot even when I'm bored.</p>
@@ -94,7 +94,7 @@
   <details>
    <summary><inst>⚠️Warning/Caution⚠️</inst></summary>
      
-<p align="center">
+<div align="center">
    <p>Interacting / Disturbing / Interrupting me is an extreme caution; I might bite you if YOU do that.</p>
    <p>Might think you're cool and awesome.</p>
    <p>I sleep peacefully, draw peacefully, play peacefully, and listen to music peacefully. But sometimes people might disturb or interrupt me for no reason.</p>
