@@ -107,6 +107,15 @@
    <p>Be kind to my friends and random people.</p>
    <p>I'll make up my mind if you're cool, awesome, good, or bad.</p>
    <p>Do not ship TWILIGHT AND SPIKE. I do not like that ship because Twilight and Spike are friends.</p>
+      </div>
+</details>
+<br>
+
+
+<details>
+ <div align="center">
+   <summary><inst>Location</inst></summary>
+   <p>Under Bakery, by the brick fence, at approximately the Bakery board, sitting with @ThatRoyalBeast.</p>
    </div>
 </details>
 <br>
