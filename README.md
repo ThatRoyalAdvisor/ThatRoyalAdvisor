@@ -17,8 +17,8 @@
  </p>
  <br>
 
-<details>
-   
+</details>
+
  <summary><ins>About Myself</ins></summary>
   
 <p align="center">
