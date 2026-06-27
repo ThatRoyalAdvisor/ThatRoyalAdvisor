@@ -97,7 +97,7 @@
 <div align="center">
    <p>Interacting / Disturbing / Interrupting me is an extreme caution; I might bite you if YOU do that.</p>
    <p>Might think you're cool and awesome.</p>
-   <p>I sleep peacefully, draw peacefully, play peacefully, and listen to music peacefully. But sometimes people might disturb or interrupt me for no reason.</p>
+   <p>I sleep peacefully, draw peacefully, play peacefully, read online comics peacefully, and listen to music peacefully. But sometimes people might disturb or interrupt me for no reason.</p>
    <p>My brain might feel fuzzy, meaning I feel tired.</p>
    <p>Don't copy either cover my Spike cosplay whenever I'm AFK or semi-AFK.</p>
    <p>Might be aggressive or get snappy if you bully or roast random people sitting or cuddling with me.</p>
