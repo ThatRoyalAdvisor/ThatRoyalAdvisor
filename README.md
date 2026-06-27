@@ -73,26 +73,6 @@
 </details>
 <br>
 
-
-   <p align="center">
-
-## 👀INTERESTS👀
-<p align="center">
-
-   <details>
-    <summary><inst>Favourite Colors and Hobbies.</inst></summary>
-      
-   <p align="center">
-    <p>I mostly like orange, pink, and purple. It's just my choice. I'm not gay.</p>
-    <p>I like watching animals, guns, and dragons.</p>
-    <p>My hobbies are playing, watching, listening to music, and drawing.</p>
-    <p>I do not like getting disturbed whenever I'm watching and playing.</p>
-    <p>You are free to whisper to me when I'm listening to music or drawing.</p>
-    </div>
-</details>
-<br>
-
- 
  
  <details>
    
@@ -110,6 +90,26 @@
     </div>
 </details>
 <br>
+<p align="center">
+      
+## 👀INTERESTS👀
+<p align="center">
+
+   <details>
+    <summary><inst>Favourite Colors and Hobbies.</inst></summary>
+      
+   <p align="center">
+    <p>I mostly like orange, pink, and purple. It's just my choice. I'm not gay.</p>
+    <p>I like watching animals, guns, and dragons.</p>
+    <p>My hobbies are playing, watching, listening to music, and drawing.</p>
+    <p>I do not like getting disturbed whenever I'm watching and playing.</p>
+    <p>You are free to whisper to me when I'm listening to music or drawing.</p>
+    </div>
+</details>
+<br>
+
+ 
+
 
 
 
