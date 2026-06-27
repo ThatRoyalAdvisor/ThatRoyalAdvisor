@@ -135,7 +135,6 @@
 <div align="center">
    <details>
     <summary><inst>ғᴀᴠᴏᴜʀɪᴛᴇ ᴄᴏʟᴏʀs ᴀɴᴅ ʜᴏʙʙɪᴇs.</inst></summary>
-      
    <div align="center">
     <p>I mostly like orange, pink, and purple. It's just my choice. I'm not gay.</p>
     <p>I like watching animals, guns, and dragons.</p>
