@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center"> ꧁༒                                                                                                               ༒꧂
  ꧁༒<img width="224" height="123" alt="Image" src="https://github.com/user-attachments/assets/c2968f53-fa37-4064-9f3e-df6d3c008157" />༒꧂
 </p>
 
