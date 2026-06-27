@@ -119,7 +119,7 @@
 <br>
 
 <details>
-   <summary><inst>Questions - ᴡʜʏ ɪ ᴅᴏɴ'ᴛ sʜɪᴘ sᴘɪᴋᴇ ᴡɪᴛʜ ᴏᴛʜᴇʀ ᴄᴀɴᴏɴs ᴀɴᴅ ғᴀɴᴏɴs❔</inst></summary>
+   <summary><inst>ǫᴜᴇsᴛɪᴏɴ - ᴡʜʏ ɪ ᴅᴏɴ'ᴛ sʜɪᴘ sᴘɪᴋᴇ ᴡɪᴛʜ ᴏᴛʜᴇʀ ᴄᴀɴᴏɴs ᴀɴᴅ ғᴀɴᴏɴs❔</inst></summary>
      
  <div align="center">
    <p>Shipping Spike with other canons and fanons may cause sex or heat shippers to appear. Like shipping rarity x spike, etc., and more.</p>
