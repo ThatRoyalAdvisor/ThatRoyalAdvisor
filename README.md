@@ -256,7 +256,7 @@
  <br> 
 
 
- ## Sleepy.
+<p align="center">  ## Sleepy.
  
 <p align="center">
 <img width="220" height="228" alt="Image" src="https://github.com/user-attachments/assets/635601f9-8858-4be3-8428-b1fb3b36754c" />
