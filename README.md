@@ -245,7 +245,7 @@
 
 
 
-## ꧁༒ʀᴇᴀᴅɪɴɢ...༒꧂
+##  ꧁༒ʀᴇᴀᴅɪɴɢ...༒꧂
 <p align="center">
 <img width="220" height="288" alt="Image" src="https://github.com/user-attachments/assets/e533da43-1b8d-4971-bc22-46f75c79ffbf" />
 
