@@ -251,7 +251,7 @@
  <br> 
 
  
-## Doing my homework at school.
+## ᴅᴏɪɴɢ ᴍʏ ʜᴏᴍᴇᴡᴏʀᴋ ᴏʀ ʙᴇɪɴɢ ʙᴜsʏ ɪʀʟ..
 
 <p align="center">
 <img width="216" height="337" alt="Image" src="https://github.com/user-attachments/assets/3586cd79-73d0-4e04-92b6-d8998b915851" />
