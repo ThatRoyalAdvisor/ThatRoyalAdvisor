@@ -25,7 +25,7 @@
  <p>Nicknames: Spike, Spine and Spire.</p>
  <p>Might disconnect whenever im afk or semi-afk.</p>
  <p>I only speak English and Filipino—sometimes a little.</p>
- <p>Nonshippers: ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
+ <p>Nonshippers/Darkshippers/Proshippers: ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
  <p>I avoid blocking either toxicity or harassment.</p>
  <p>Was born in the Philippines.</p>
  <p>I usually like shipping Rarity and Spike, but in-game, I usually don't.</p>
