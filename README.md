@@ -170,13 +170,8 @@
 </details>
 <br>
 
-
-
    </div>
    </details>
-
-
-
 
  <br>
 
@@ -188,7 +183,6 @@
  </div>
 </details>
 <br>
-
 
   <details>
   <summary><int>Music I like</int></summary>
