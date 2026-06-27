@@ -256,3 +256,9 @@
 ## ꧁༒ʀᴇᴀᴅɪɴɢ...༒꧂
 <p align="center">
 <img width="220" height="288" alt="Image" src="https://github.com/user-attachments/assets/e533da43-1b8d-4971-bc22-46f75c79ffbf" />
+
+
+
+## ꧁༒ᴛᴀᴋɪɴɢ ᴀ ʙᴀᴛʜ ɪʀʟ...༒꧂
+<p align="center">
+<img width="237" height="137" alt="Image" src="https://github.com/user-attachments/assets/e7d73a5e-8f5b-4788-afd6-628c415d2c9d" />
