@@ -73,6 +73,7 @@
 </details>
 <br>
 
+<p align="center">
 ## 👀INTERESTS👀
    
    <details>
