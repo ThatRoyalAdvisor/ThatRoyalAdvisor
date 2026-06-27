@@ -76,6 +76,7 @@
 </details>
 <br>
 
+ </p>
  
  <details>
   <summary><inst>ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔</inst></summary>
