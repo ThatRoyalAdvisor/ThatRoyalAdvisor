@@ -74,7 +74,7 @@
 </details>
 <br>
 
- <details>
+   <details>
   <summary><inst>ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔</inst></summary>
   
 <div align="center">
