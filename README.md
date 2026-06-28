@@ -33,6 +33,7 @@
  <p>I will block you if you start harassing my friends.</p>
  <p>I do not like seeing weird, sus, or freaky skins sitting or cuddling with me when I'm AFK or semi-AFK.</p>
  <p>Sleeping, watching, sketching, eating, listening to music, playing, and reading are all frequently AFK or semi-AFK.</p>
+ <p>I'm a happy or cheerful dragon who occasionally enjoys whispering or speaking clearly, well, sometimes.</p>
  </div>
 </details>
 <br>
