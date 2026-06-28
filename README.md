@@ -135,8 +135,6 @@
  </div>
 </details>
 <br>
-      
-## 👀INTERESTS👀
 
 <div align="center">
    <details>
