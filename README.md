@@ -45,7 +45,7 @@
 
 </p>
 
-## |The game i only play|
+## |The Game i only Play|
 <details>
   <summary><ins>|ᴘᴏɴʏ ᴛᴏᴡɴ|:</ins></summary>
    
@@ -65,7 +65,7 @@
 </details>
 <br>
 
-##
+## CAUTION REMINDER!
   <details>
  <summary><ins>|❗ᴅᴏ ɴᴏᴛ ʙᴇғʀɪᴇɴᴅᴇᴅ ᴍᴇ.❗|:</ins></summary>
      
@@ -80,23 +80,6 @@
  <p>I do not like nonpatiences if they're willing to me to accept their friend requests.</p>
  <p>Whisper to me if you want to talk or be friends with me. I'll even ask if you're 18+ or under 12 years old.</p>
   </div>
-</details>
-<br>
-
-<details>
-<summary><ins>|ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔|:</ins></summary>
-  
-<div align="center">
-   <p>Well, if you want to be friends with me, you have to talk to me or whisper a lot.</p>
-   <p>I avoid talking / whispering if under 10 years old..</p>
-   <p>I like to talk / whisper a lot even when I'm bored.</p>
-   <p>Stay in touch; otherwise, I cannot respond to your message..</p>
-   <p>Free to interact by whisper when I'm listening to music and drawing!.</p>
-   <p></p>I usually like people cuddling me or sitting with me. I really don't care if I sit alone.</p>
-   <p>If you're not feeling well, not in the mood, or upset. I might whisper / respond to you!.</p>
-   <p>I do not want to be friends with a Tut skins, toxic ships, etc., and more..</p>
-   <p>It feels weird when I'm with Tut's skins.</p>
-   </div>
 </details>
 <br>
 
@@ -119,6 +102,25 @@
    </div>
 </details>
 <br>
+
+
+<details>
+<summary><ins>|ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔|:</ins></summary>
+  
+<div align="center">
+   <p>Well, if you want to be friends with me, you have to talk to me or whisper a lot.</p>
+   <p>I avoid talking / whispering if under 10 years old..</p>
+   <p>I like to talk / whisper a lot even when I'm bored.</p>
+   <p>Stay in touch; otherwise, I cannot respond to your message..</p>
+   <p>Free to interact by whisper when I'm listening to music and drawing!.</p>
+   <p></p>I usually like people cuddling me or sitting with me. I really don't care if I sit alone.</p>
+   <p>If you're not feeling well, not in the mood, or upset. I might whisper / respond to you!.</p>
+   <p>I do not want to be friends with a Tut skins, toxic ships, etc., and more..</p>
+   <p>It feels weird when I'm with Tut's skins.</p>
+   </div>
+</details>
+<br>
+
 
 <details>
  <summary><ins>|❔ʟᴏᴄᴀᴛɪᴏɴ❔|:</ins></summary>
