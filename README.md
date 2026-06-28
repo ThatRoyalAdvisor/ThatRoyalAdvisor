@@ -20,19 +20,20 @@
  <br>
 
 <details>
-   <summary><ins>ᴀʙᴏᴜᴛ ᴍʏsᴇʟғ</ins></summary>
+   <summary><ins>ᴍʏsᴇʟғ</ins></summary>
   
 <div align="center">
- <p>Hello, my name is Spike, and I'm 23 years old; my birthday is on the 9th of November.</p>
- <p>Nicknames: Spike, Spine and Spire.</p>
+ <p>Hi and Hello, my name is Spike, and I'm 23 years old; my birthday is on the 9th of November.</p>
+ <p>Nicknames I usually like: Spike, Spine and Spire.</p>
+ <p>⚠️Nicknames I usually hate: Spit, Spite, Spije, and Spile.
  <p>Might disconnect whenever im afk or semi-afk.</p>
  <p>I only speak English and Filipino—sometimes a little.</p>
- <p>Nonshippers/Darkshippers/Proshippers: ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
+ <p>Nonshippers, Darkshippers, and Proshippers: ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
  <p>I avoid blocking either toxicity or harassment.</p>
- <p>Was born in the Philippines.</p>
+ <p>Was born in the Philippines?..</p>
  <p>I usually like shipping Rarity and Spike, but in-game, I usually don't.</p>
  <p>Twilight is my friend; I always support her, and I always have her back.</p>
- <p>I will block you if you start harassing my friends.</p>
+ <p>I will block you if you start harassing my friends or followers.</p>
  <p>I do not like seeing weird, sus, or freaky skins sitting or cuddling with me when I'm AFK or semi-AFK.</p>
  <p>Sleeping, watching, sketching, eating, listening to music, playing, and reading are all frequently AFK or semi-AFK.</p>
  <p>I'm a happy or cheerful dragon who occasionally enjoys whispering or speaking clearly—well, sometimes.</p>
@@ -63,7 +64,7 @@
 <br>
 
   <details>
- <summary><ins>❗ᴅᴏ ɴᴏᴛ ʙᴇғʀɪᴇɴᴅ❗</ins></summary>
+ <summary><ins>❗ᴅᴏ ɴᴏᴛ ʙᴇғʀɪᴇɴᴅᴇᴅ ᴍᴇ.❗</ins></summary>
      
 <div align="center">   
  <p>Under 10 years old, I will not accept being friends with anyone under 12 years old.</p>
@@ -96,7 +97,7 @@
 <br>
 
   <details>
-   <summary><ins>⚠️ᴡᴀʀɴɪɴɢ/ᴄᴀᴜᴛɪᴏɴ⚠️</ins></summary>
+   <summary><ins>⚠️ᴡᴀʀɴɪɴɢ...⚠️</ins></summary>
      
 <div align="center">
    <p>Interacting / Disturbing / Interrupting me is an extreme caution; I might bite you if YOU do that.</p>
@@ -119,7 +120,7 @@
  <summary><ins>❔ʟᴏᴄᴀᴛɪᴏɴ❔</ins></summary>
  
  <div align="center">
-   <p>Under bakery, by the brick fence, at approximately the Bakery board, sitting with @ThatRoyalBeast. [In Safe Server #OG]</p>
+   <p>Under bakery, by the brick fence, at approximately the Bakery board, sitting with @ThatRoyalBeast. [In Safe Server #OG 1]</p>
    </div>
 </details>
 <br>
@@ -139,7 +140,7 @@
 
 <div align="center">
    <details>
-    <summary><ins>ғᴀᴠᴏᴜʀɪᴛᴇ ᴄᴏʟᴏʀs ᴀɴᴅ ʜᴏʙʙɪᴇs.</ins></summary>
+    <summary><ins>ғᴀᴠᴏᴜʀɪᴛᴇ ᴄᴏʟᴏʀs ᴀɴᴅ ᴏᴛʜᴇʀ ʜᴏʙʙɪᴇs.</ins></summary>
    <div align="center">
     <p>I mostly like orange, pink, and purple. It's just my choice. I'm not gay.</p>
     <p>I like watching animals, guns, and dragons.</p>
