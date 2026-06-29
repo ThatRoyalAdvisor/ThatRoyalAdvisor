@@ -1,4 +1,4 @@
-## making a read.me
+## making a read.me and profile.
 
   
 
